@@ -43,9 +43,11 @@ python
 pandas
 numpy
 matplotlib
+Jupyter notebook
 ```
 
 ## Usage
 1. Download the dataset from the Kaggle link above
 2. Open `online_retail_python_analysis.ipynb`
+
 3. Run all cells sequentially
