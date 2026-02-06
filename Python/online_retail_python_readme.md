@@ -43,7 +43,7 @@ python
 pandas
 numpy
 matplotlib
-Jupyter notebook
+jupyter notebook
 ```
 
 ## Usage
@@ -51,3 +51,4 @@ Jupyter notebook
 2. Open `online_retail_python_analysis.ipynb`
 
 3. Run all cells sequentially
+
