@@ -1,0 +1,5 @@
+purchase_tier,customer_count,revenue_contribution,avg_revenue_per_customer
+VIP,865,11333424,13102
+Regular,922,2634279,2857
+Occasional,2447,2860227,1169
+One-time,1619,561977,347
